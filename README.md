@@ -1,32 +1,35 @@
-Hi 👋 I'm Arnab Chakraborty  
+<h2 align="center">Hi 👋, I'm Arnab Chakraborty</h2>
 
-🚀 Full Stack Web Developer (MERN)  
-🎓 B.Tech CSE @ KIIT University  
-💡 I enjoy building scalable web apps and solving real-world problems  
+<p align="center">
+  Full Stack Web Developer • MERN <br/>
+  B.Tech CSE @ KIIT University
+</p>
 
----
-
-🛠 Tech I work with  
-React · Node · Express · MongoDB · SQL · Tailwind · Git  
-
----
-
-🚀 What I'm building  
-• AI-powered web applications  
-• Real-time chat & video platforms  
-• Full-stack products with clean UX  
+<p align="center">
+  <a href="https://linkedin.com/in/arnabchakraborty">LinkedIn</a> •
+  <a href="mailto:arnabx36@gmail.com">Email</a>
+</p>
 
 ---
 
-📌 Highlighted Projects  
-• Cool AI – AI SaaS platform  
-• Xstream – Real-time chat & video app  
-• HazzleFree – Service marketplace  
+### ✨ About
+I build clean, scalable web applications  
+and enjoy turning ideas into real products.
 
 ---
 
-📫 Let's connect  
-💼 LinkedIn → https://linkedin.com/in/arnabchakraborty  
-📧 Email → arnabx36@gmail.com  
+### 🛠 Tech
+`React` `Node` `Express` `MongoDB` `SQL` `Tailwind` `Git`
 
-✨ Always learning. Always building.
+---
+
+### 🚀 Projects
+• Cool AI  
+• Xstream  
+• HazzleFree  
+
+---
+
+<p align="center">
+  🌱 Learning • Building • Improving
+</p>
