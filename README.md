@@ -1,39 +1,47 @@
-<h1 align="center">Hey 👋 I'm Arnab Chakraborty</h1>
+<h1 align="center">Hi 👋, I'm Arnab Chakraborty</h1>
 
 <p align="center">
   <b>Full Stack Web Developer (MERN)</b> <br/>
-  B.Tech CSE @ KIIT University
+  B.Tech Computer Science & Engineering @ KIIT University
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arnab-chakraborty-02340b252/">LinkedIn</a> •
-  <a href="mailto:arnabx36@gmail.com">Email</a> •
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  <a href="mailto:arnabx36@gmail.com">Email</a>
 </p>
 
 <br/>
 
 <p align="center">
-  <i>Building meaningful web experiences, one feature at a time.</i>
+  <i>I build clean, scalable web applications with a focus on performance, UX, and real-world impact.</i>
 </p>
 
 ---
 
 ### ✨ About Me
-- I enjoy crafting **clean, scalable full-stack applications**
-- Strong interest in **real-time systems & modern web architecture**
-- Always learning, always improving
+- Passionate about **full-stack development** and modern web technologies  
+- Love working on **real-time systems**, APIs, and product-focused applications  
+- Enjoy turning complex problems into **simple, intuitive solutions**  
+- Strong problem-solving mindset with a focus on **clean architecture**
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,js,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,js,tailwind,git,figma" />
 </p>
 
 ---
 
-### 🚀 Selected Projects
+### 🚀 Things I Like Building
+- AI-powered web applications  
+- Real-time chat & video platforms  
+- Full-stack products with clean UX & solid backend design  
+- APIs that are scalable, secure, and easy to maintain  
+
+---
+
+### 📌 Selected Projects
 <table>
   <tr>
     <td><b>Cool AI</b></td>
@@ -41,27 +49,23 @@
   </tr>
   <tr>
     <td><b>Xstream</b></td>
-    <td>Real-time chat & video platform</td>
+    <td>Real-time chat & video communication app</td>
   </tr>
   <tr>
     <td><b>HazzleFree</b></td>
-    <td>Service marketplace application</td>
+    <td>Service marketplace platform</td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
-</p>
+### 🌱 Currently
+- Improving system design & backend scalability  
+- Exploring advanced React patterns  
+- Building production-ready full-stack applications  
 
 ---
 
 <p align="center">
-  <sub>✨ Code • Create • Improve ✨</sub>
+  <sub>Code with intent. Build with purpose. Learn relentlessly.</sub>
 </p>
